@@ -4,7 +4,7 @@ String.prototype.concatenarPalabra = function(palabra) {
 };
 
 
-const saludo = "Hola";
+const saludo = "Buenos días, ";
 console.log(saludo.concatenarPalabra("Juancho")); 
 
 
